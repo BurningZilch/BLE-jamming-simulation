@@ -1,5 +1,18 @@
-# BLE-simulation
-This in an assessment project in my university that aims to simulate how Bluetooth Low Energy (BLE) interference impacts the performance of a machine learning model. Due to the time pressure during the development, there might be error in the code, please use with caution.
+# BLE-Simulation
+
+This project is part of a university assessment that simulates how **Bluetooth Low Energy (BLE)** jamming interference impacts the performance of a machine learning model. Due to time constraints during development, there may be some errors in the code. **Please use it with caution.**
+
+---
+
+## Real-World Scenario  
+In practice, BLE devices typically send **10–100 signals per second**, and devices calculate an **average value** from these signals for location purposes.  
+⚠️ **Note:** This behavior is **not implemented** in the current code.
+
+---
+
+## Issues and Questions  
+If you encounter any issues or have questions about this project, feel free to reach out.
+
 
 ## **How to Run the Project**
 
