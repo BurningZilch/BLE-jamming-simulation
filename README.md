@@ -9,7 +9,10 @@ In practice, BLE devices typically send **10–100 signals per second**, and dev
 ⚠️ **Note:** This behavior is **not implemented** in the current code.
 
 ---
+## Website
+This project is accompanied by a blog that documents the development process. You can read it here: [https://burningzilch.github.io/2024-11-25-BLEMutipathFading/](https://burningzilch.github.io/2024-11-25-BLEMutipathFading/)
 
+---
 ## Issues and Questions  
 If you encounter any issues or have questions about this project, feel free to reach out.
 
@@ -27,4 +30,6 @@ If you encounter any issues or have questions about this project, feel free to r
 3. **Step 3: Test Models**
    - Use `testCNN.m` to evaluate the CNN model.
    - Use `testRandomForests.m` to evaluate the RF model.
+
+
 
